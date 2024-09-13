@@ -27,6 +27,8 @@ Digite I2: 0.8
 Digite W1: 1.2
 Digite W2: 0.9
 
+Recebe a seguinte resposta:
+
 I1: 0.50
 I2: 0.80
 W1: 1.20
