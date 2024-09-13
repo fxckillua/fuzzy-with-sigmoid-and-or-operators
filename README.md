@@ -1,4 +1,4 @@
-# Fuzzy: com Sigmoide, Operadores And, Or
+# Fuzzy: with Sigmoid, And, Or Operators
 
 Este projeto implementa uma simulação básica de uma função de ativação de redes neurais utilizando a linguagem C. Ele utiliza entradas ponderadas e uma função sigmoide para calcular a saída de um neurônio simples. O programa solicita ao usuário os valores das entradas (I1, I2) e dos pesos (W1, W2), e com base nesses valores, calcula a saída do neurônio (O1) após aplicar uma função de ativação sigmoide.
 
